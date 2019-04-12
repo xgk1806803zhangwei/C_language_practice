@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1555067373 source:c:\users\zw166\desktop\c语言\acm\2001 计算两点间的距离\main.c
+	<stdio.h>
+	<math.h>
+
